@@ -1,4 +1,5 @@
-# C++ Cơ bản 
-Bài tập cơ bản với Ngôn ngữ lập trình C++
+Chương 1
 
-Làm quen và thành thạo kiến thức cơ bản 
++ Hello World in C++
+
++ Biến, hằng, kiểu dữ liệu, các phép toán cơ bản 
