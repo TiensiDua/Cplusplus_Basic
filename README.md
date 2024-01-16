@@ -1,6 +1,15 @@
-# C++ Cơ bản 
-Bài tập cơ bản với Ngôn ngữ lập trình C++ 😁
+# Chương 2
 
-Làm quen và thành thạo kiến thức cơ bản 
+# Các cấu trúc điều khiển ( rẽ nhánh , vòng lặp )
 
-Chọn Branches -> Các chương 
+### if_else
+
+### switch_case
+
+### while
+
+### do_while
+
+### for
+
+### break & continue
