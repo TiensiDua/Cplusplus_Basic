@@ -1,4 +1,4 @@
 # Cplusplus_Basic
-C++ basic for beginer
+Chương 1 : Giới thiệu về C++
 
-C++ cơ bản cho người mới bắt đầu 
+IDE, chương trình đầu tiên
